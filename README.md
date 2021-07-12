@@ -15,7 +15,3 @@ Thank you for downloading and supporting Voidem Development
 
 I may update with any bugs people have with the bot.
 
-
-=======
-VoidBot
-
