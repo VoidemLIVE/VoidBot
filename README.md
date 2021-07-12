@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 VoidBot is a bot i no longer want to maintain
 
 
@@ -13,3 +14,6 @@ Thank you for downloading and supporting Voidem Development
 
 
 I may update with any bugs people have with the bot.
+=======
+VoidBot
+>>>>>>> 31aa39f975591c9d81b84a64c92403c21d6837b1
