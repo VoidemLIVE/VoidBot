@@ -1,24 +1,15 @@
-# tutorial-bot
-Discord.js v12 Basic Bot with Basic Bot Commands
-
-YouTube: https://www.youtube.com/channel/UC1zfP7GYvB2LD-49TQcYInQ?view_as=subscriber
-Discord: https://www.discord.gg/3HCefjF
-Oblivion Bot Invite: https://bradybots.com/
+VoidBot is a bot i no longer want to maintain
 
 
-YouTube Episode 1: 
-- Info command
-- Whois command
+How to setup:
+
+1. Add to a server with discord.js already setup
+2. Upload the zip to the server
+3. Unzip the file
+4. Change the bot token in botconfig.json and index.js
+5. Change the prefix in config.json (By default it's + like the real VoidBot)
+
+Thank you for downloading and supporting Voidem Development
 
 
-YouTube Episode 2: 
-- Clear command
-
-YouTube Episode 3: 
-(COMPLETE MAKEOVER)
-- Command Handler
-- Event Handler 
-- Message Event 
-- Ready Event
-- Info Command 
-- Clear Command
+I may update with any bugs people have with the bot.
