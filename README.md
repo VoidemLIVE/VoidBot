@@ -13,6 +13,7 @@ How to setup:
 Thank you for downloading and supporting Voidem Development
 
 ⚠️THE ORIGINAL BOT'S WEBSITE HAS BEEN REMOVED ⚠️
+-------------
 So for any command help please visit https://voidemtwitch.gitbook.io/voidbot/
 
 I may update with any bugs people have with the bot.
