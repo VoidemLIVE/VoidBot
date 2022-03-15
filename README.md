@@ -16,5 +16,7 @@ Thank you for downloading and supporting Voidem Development
 -------------
 So for any command help please visit https://voidemtwitch.gitbook.io/voidbot/
 
+NOT ALL COMMANDS WILL WORK. THERE WILL BE BUGS WITH THE CODE AFTER NEWER UPDATED FOR Node.JS, Discord.JS & more are needed
+
 I may update with any bugs people have with the bot.
 
