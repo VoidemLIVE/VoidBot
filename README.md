@@ -1,6 +1,7 @@
 
 VoidBot is a bot i no longer want to maintain
 
+# ⚠️PROJECT DISCONTINUED⚠️
 
 How to setup:
 
